@@ -38,7 +38,7 @@ Blockchain-based platform for secure storage and verification of academic creden
 * GitHub: Elakkiya2374
 
 ⭐ Always learning, building, and improving.
-## Hi there 👋
+
 
 <!--
 **Elakkiya2374/Elakkiya2374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
